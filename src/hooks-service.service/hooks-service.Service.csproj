@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\hooks-service.Common\hooks-service.Common.csproj" />
+    <ProjectReference Include="..\hooks-service.Domain\hooks-service.Domain.csproj" />
+    <ProjectReference Include="..\hooks-service.Model\hooks-service.Model.csproj" />
+    <ProjectReference Include="..\hooks-service.Repository\hooks-service.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

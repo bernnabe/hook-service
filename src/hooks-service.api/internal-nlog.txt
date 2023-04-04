@@ -1,0 +1,118 @@
+2020-02-03 17:34:34.0271 Info Message Template Auto Format enabled
+2020-02-03 17:34:34.1077 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-03 17:34:34.3491 Info Adding target FileTarget(Name=allfile)
+2020-02-03 17:34:34.3805 Info Adding target FileTarget(Name=ownFile-web)
+2020-02-03 17:34:34.5105 Info Found 45 configuration items
+2020-02-05 17:11:49.3895 Info Message Template Auto Format enabled
+2020-02-05 17:11:49.5556 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-05 17:11:49.8488 Info Adding target FileTarget(Name=allfile)
+2020-02-05 17:11:49.9146 Info Adding target FileTarget(Name=ownFile-web)
+2020-02-05 17:11:50.2553 Info Found 45 configuration items
+2020-02-05 17:14:23.5335 Info Message Template Auto Format enabled
+2020-02-05 17:14:23.5941 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-05 17:14:23.8730 Info Adding target FileTarget(Name=allfile)
+2020-02-05 17:14:23.8969 Info Adding target FileTarget(Name=ownFile-web)
+2020-02-05 17:14:24.0050 Info Found 45 configuration items
+2020-02-05 17:17:15.5702 Info Message Template Auto Format enabled
+2020-02-05 17:17:15.6396 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-05 17:17:15.9119 Info Adding target FileTarget(Name=allfile)
+2020-02-05 17:17:15.9380 Info Adding target FileTarget(Name=ownFile-web)
+2020-02-05 17:17:16.0422 Info Found 45 configuration items
+2020-02-05 17:28:07.4417 Info Message Template Auto Format enabled
+2020-02-05 17:28:07.5227 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-05 17:28:07.7718 Info Adding target FileTarget(Name=allfile)
+2020-02-05 17:28:07.7956 Info Adding target FileTarget(Name=ownFile-web)
+2020-02-05 17:28:07.9164 Info Found 45 configuration items
+2020-02-06 10:54:09.5870 Info Message Template Auto Format enabled
+2020-02-06 10:54:09.8787 Info Loading assembly: NLog.Web.AspNetCore
+2020-02-06 10:54:11.5074 Info Adding target FileTarget(Name=allfile)
+2020-02-06 10:54:11.8532 Info Adding target FileTarget(Name=ownFile-web)
+2020-02-06 10:54:12.2749 Info Found 45 configuration items
+2022-01-22 19:00:12.1592 Info Message Template Auto Format enabled
+2022-01-22 19:00:12.1729 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 19:00:12.2843 Info Adding target FileTarget(Name=allfile)
+2022-01-22 19:00:12.3461 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 19:00:12.4216 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 19:04:05.4582 Info Message Template Auto Format enabled
+2022-01-22 19:04:05.4820 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 19:04:05.5804 Info Adding target FileTarget(Name=allfile)
+2022-01-22 19:04:05.5980 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 19:04:05.6393 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 19:09:19.5705 Info Message Template Auto Format enabled
+2022-01-22 19:09:19.5917 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 19:09:19.6992 Info Adding target FileTarget(Name=allfile)
+2022-01-22 19:09:19.7160 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 19:09:19.7587 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 19:12:40.9949 Info Message Template Auto Format enabled
+2022-01-22 19:12:41.0198 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 19:12:41.1256 Info Adding target FileTarget(Name=allfile)
+2022-01-22 19:12:41.1827 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 19:12:41.2593 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 19:15:23.9564 Info Message Template Auto Format enabled
+2022-01-22 19:15:23.9684 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 19:15:24.0502 Info Adding target FileTarget(Name=allfile)
+2022-01-22 19:15:24.0628 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 19:15:24.0985 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 19:18:17.2407 Info Message Template Auto Format enabled
+2022-01-22 19:18:17.2556 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 19:18:17.3359 Info Adding target FileTarget(Name=allfile)
+2022-01-22 19:18:17.3564 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 19:18:17.4053 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:14:50.8737 Info Message Template Auto Format enabled
+2022-01-22 20:14:50.8893 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:14:51.0085 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:14:51.0342 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:14:51.1137 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:21:19.1864 Info Message Template Auto Format enabled
+2022-01-22 20:21:19.2190 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:21:19.4747 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:21:19.5411 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:21:19.6137 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:29:30.8068 Info Message Template Auto Format enabled
+2022-01-22 20:29:30.8179 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:29:30.8873 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:29:30.8993 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:29:30.9356 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:32:18.2449 Info Message Template Auto Format enabled
+2022-01-22 20:32:18.2666 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:32:18.3707 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:32:18.3840 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:32:18.4690 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:34:50.6972 Info Message Template Auto Format enabled
+2022-01-22 20:34:50.7126 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:34:50.7943 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:34:50.8064 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:34:50.8463 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:35:03.3593 Info Message Template Auto Format enabled
+2022-01-22 20:35:03.3767 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:35:03.4832 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:35:03.5021 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:35:03.5982 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:36:35.2705 Info Message Template Auto Format enabled
+2022-01-22 20:36:35.2886 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:36:35.3890 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:36:35.4024 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:36:35.4525 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:38:17.2410 Info Message Template Auto Format enabled
+2022-01-22 20:38:17.2562 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:38:17.3609 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:38:17.3787 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:38:17.4217 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:38:24.6738 Info Shutdown() called. Logger closing...
+2022-01-22 20:38:24.6738 Info Closing old configuration.
+2022-01-22 20:38:24.7213 Info Logger has been closed down.
+2022-01-22 20:39:11.9207 Info Message Template Auto Format enabled
+2022-01-22 20:39:11.9412 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:39:12.0524 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:39:12.0760 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:39:12.1378 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:51:08.9013 Info Message Template Auto Format enabled
+2022-01-22 20:51:08.9185 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:51:09.0297 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:51:09.2182 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:51:09.2817 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
+2022-01-22 20:56:16.2176 Info Message Template Auto Format enabled
+2022-01-22 20:56:16.2392 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-22 20:56:16.3446 Info Adding target FileTarget(Name=allfile)
+2022-01-22 20:56:16.3580 Info Adding target FileTarget(Name=ownFile-web)
+2022-01-22 20:56:16.4223 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\git\service-hooks-api\service-hooks-dotnet-api\src\Telefe.ServiceHooks.Api\bin\Debug\net6.0\nlog.config
